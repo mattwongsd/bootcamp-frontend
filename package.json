@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp-frontend",
+  "version": "1.0.0",
+  "description": "Front end for bootcamp port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattwongsd/bootcamp-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattwongsd/bootcamp-frontend/issues"
+  },
+  "homepage": "https://github.com/mattwongsd/bootcamp-frontend#readme"
+}
